@@ -31,5 +31,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h2>Thank you!</h2>
+   <h2>Thank you!  This is an update to the file on 4/10</h2>
 </form>
